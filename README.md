@@ -1,1 +1,1 @@
-PythonProject
+SnakeGame_PythonProject
