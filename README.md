@@ -1,1 +1,2 @@
-# PythonProject
+# SnakeGame_PythonProject
+This project is a basic implementation of the classic game "Snake" using Pygame in Python. It involves controlling a snake to eat food and grow longer while avoiding collisions with boundaries and its own body. The game loop handles user input, updates the snake's position, and checks for collisions. It displays a score and allows the user to play again or quit. This project serves as a foundation for building upon and enhancing the game.
